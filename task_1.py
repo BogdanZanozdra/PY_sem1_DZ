@@ -5,8 +5,6 @@
 # - 7 -> да
 # - 1 -> нет
 
-
-
 day_number = int(input('Введите цифру, обозначающую день недели:'))
 if day_number == 6 or day_number == 7:
     print('Выходной!')
